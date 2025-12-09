@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+python-multipart
+pypdf
